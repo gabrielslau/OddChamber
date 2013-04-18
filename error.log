@@ -1,0 +1,11 @@
+#<NoMethodError: undefined method `stop' for #<Gosu::Sample:0x2c8cab8>>
+J:/Ruby/Projeto game/OddChamber-alphafa/src/credits.rb:32:in `main_menu'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/helpers/input_dispatcher.rb:83:in `[]'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/helpers/input_dispatcher.rb:83:in `block in dispatch_actions'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/helpers/input_dispatcher.rb:80:in `each'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/helpers/input_dispatcher.rb:80:in `dispatch_actions'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/helpers/input_dispatcher.rb:45:in `dispatch_button_down'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/game_state.rb:155:in `button_down'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/game_state_manager.rb:251:in `button_down'
+d:/Ruby/lib/ruby/gems/1.9.1/gems/chingu-0.8.1/lib/chingu/window.rb:202:in `button_down'
+OddChamber-alphafa.rb:56:in `<main>'

@@ -1,0 +1,1 @@
+ocra OddChamber-alpha.rb --console src/* sounds/* graphics/* fonts/* lib/* ./*
