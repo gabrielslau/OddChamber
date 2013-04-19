@@ -19,3 +19,4 @@ doc/
 
 *.sublime-project
 *.sublime-workspace
+*.log
