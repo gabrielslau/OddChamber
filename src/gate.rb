@@ -10,7 +10,7 @@ class Gate < GameObject
     @image               = Image[ImageDir+"/structures/gate.png"]
     @color               = Color.new(0xff808080)
     self.rotation_center = :top_center
-    self.collidable      = false
+    self.collidable      = true
     
     @sound_die  = self.load_sfx(:door_open)
     # @sound_die  = self.load_sfx(:explosion)
